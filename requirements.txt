@@ -7,4 +7,5 @@ Jinja2==2.11.3
 MarkupSafe==1.1.1
 Werkzeug==2.0.2
 wincertstore==0.2
+pillow==8.4.0
 
