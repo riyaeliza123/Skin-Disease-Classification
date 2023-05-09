@@ -9,4 +9,4 @@ Werkzeug==2.0.2
 wincertstore==0.2
 pillow==8.4.0
 keras==2.9.0
-tensorflow==2.9.1
+tensorflow==2.9.1; python_version == '3.9'
